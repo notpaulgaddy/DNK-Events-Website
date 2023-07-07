@@ -1,0 +1,16 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Match any document in the 'ScheduledCalls' collection
+    match /ScheduledCalls/{document=**} {
+      // Allows read to any document in the collection
+      // Assumes you want to allow public read access
+      allow read: if true;
+
+      // Allows write to any document in the collection
+      // Only if the request does not contain any unknown fields
+      allow write: if request.resource.data.keys().hasOnly(['date', 'description', 'email', 'location', 'name', 'phone'])
+    }
+  }
+}
