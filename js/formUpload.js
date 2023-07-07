@@ -3,12 +3,12 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.0.0/firebase
 import { getFunctions, httpsCallable } from "https://www.gstatic.com/firebasejs/9.0.0/firebase-functions.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBFRK33knMWfGFDjSl1ScIxCT4iYeWrVFc",
-    authDomain: "dnk-photography.firebaseapp.com",
-    projectId: "dnk-photography",
-    storageBucket: "dnk-photography.appspot.com",
-    messagingSenderId: "953595284741",
-    appId: "1:953595284741:web:1d1b6143046d15034cbb6c"
+    apiKey:  "",
+    authDomain: "",
+    projectId:  "",
+    storageBucket:  "",
+    messagingSenderId: "",
+    appId: "",
 };
 
 // Initialize Firebase
