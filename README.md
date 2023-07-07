@@ -18,12 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -34,19 +28,16 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">DNK Events</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A website I did for a local event planning company in order to increase their traffic and user conversions.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">View Website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -85,16 +76,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+For the summer of 2023, I wasn't given the opportunity to get a software engineering internship, so I decided to start web consulting since no companies would give me a chance. This website was developed for Double Door Events, an event planning company.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Pages:
+* Home - Landing page with many call to actions that show off the business' in depth experience and knowledge.
+* Contact - Fill out a form so the event planners can reach out to them.
+* Gallery Pages(Weddings, Adult Birthdays, Kids Parties, Baby Showers and Sweet 16s)
+* 404 Error
+* Services - Display all services listed 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,14 +93,11 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![Firebase][FCF]][FCF-url]
+* [![Firebase][FF]][FF-url]
+* [![Webflow][WF]][WF-url]
+* [![Node][Node.js]][Node-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,77 +109,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,9 +128,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - Paul Gaddy - paulanthony1201@hotmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/notpaulgaddy/DNK-Events-Website](https://github.com/notpaulgaddy/DNK-Events-Website)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,19 +169,13 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
+[FCF]: https://res.cloudinary.com/practicaldev/image/fetch/s--6JdPkKpt--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/to6bvecp005a1u92g3dj.png
+[FCF-url]: https://firebase.google.com/docs/functions
+[FF]: https://firebase.google.com/docs/firestore
+[FF-url]: https://miro.medium.com/v2/resize:fit:304/1*BXaq7UZ-QoMH0vF0Znjy0A.jpeg
+[WF]: https://webflow.com
+[WF-url]: data:image/png;base64,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
+[Node.js]: https://nodejs.org/en
+[Node-url]: https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
